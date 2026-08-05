@@ -1,2 +1,2 @@
 # database-fundacion-pbi
-This is the dashobard of a foundation in the DR. Made with the Power BI technology.
+This is the dashboard of a foundation in the DR. Made with the Power BI technology.
